@@ -1,0 +1,68 @@
+ion-header {
+  background-color: #9653d1;
+  padding: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border-bottom: 1px solid #ccc;
+}
+
+ion-title {
+  font-size: 30px;
+  font-weight: bold ;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-transform: uppercase;
+}
+
+p {
+  margin: 0 0 10px 0;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 19px;
+}
+
+ion-list {
+  margin-top: 20px;
+  border-top: 1px solid #ccc;
+}
+
+ion-item {
+  margin-bottom: 10px;
+  border-bottom: 1px solid #727272;
+}
+
+ion-select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border-radius: 5px;
+}
+
+.container {
+  text-align: center;
+  background-color: #000000;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.ion-text-center {
+  text-align: center;
+}
+
+.ion-select-option {
+  padding: 10px;
+}
+
+.ion-select-option:hover {
+  background-color: #eee;
+}
+
+.ion-select-option.selected {
+  background-color: #d3a2fd;
+  color: #fff;
+}
+
+.hasil {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: #9653d1;
+  padding: 10px;
+}
